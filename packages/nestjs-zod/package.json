@@ -82,7 +82,7 @@
     }
   },
   "dependencies": {
-    "deepmerge": "^4.3.1",
-    "@nest-zod/z": "*"
+    "@nest-zod/z": "^1.0.1",
+    "deepmerge": "^4.3.1"
   }
 }
